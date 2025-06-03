@@ -1,0 +1,45 @@
+# Sistema de Gestión de Citas Médicas
+**Proyecto Integrador - Estructuras de Datos**  
+**Lenguaje:** C++ con WinAPI  
+**Autor:** Kevin Yahir Villarreal Hiracheta  
+
+---
+
+## ✅ Funcionalidad General Implementada:
+- **Pacientes:** Registro, edición, eliminación y búsqueda por apellido paterno con búsqueda binaria.
+- **Médicos:** Alta con cédula profesional, especialidad, nombre completo y validaciones robustas.
+- **Especialidades:** Registro, eliminación con verificación de uso. Ordenadas alfabéticamente con QuickSort.
+- **Consultorios:** Registro por bloques (día y hora), prevención de eliminación si están en uso. Ordenados por día y hora con QuickSort.
+- **Citas médicas:** Agendado, cancelación, confirmación de llegada, diagnóstico, validación de disponibilidad.
+
+---
+
+## 🧠 Estructuras y Algoritmos:
+- Listas doblemente ligadas para todas las entidades.
+- Guardado y carga en archivos binarios separados por usuario.
+- **HeapSort en:** médicos (por apellido), pacientes (por apellido), citas (por estatus).
+- **QuickSort en:** especialidades (por nombre), consultorios (por día y hora).
+- **Búsqueda binaria** en pacientes por apellido paterno.
+
+---
+
+## 🔐 Sistema de Usuarios:
+- Interfaz de inicio de sesión y registro de nuevos usuarios.
+- Carga y guardado de listas por usuario autenticado.
+- Archivo `usuarios.txt` para persistencia de credenciales.
+
+---
+
+## 📊 Reportes Implementados:
+
+### Reporte de Consultas por Médico:
+- Filtro por especialidad, médico y rango de fechas.
+- Citas listadas con cédula, nombre, fecha, hora, día, paciente, estatus y diagnóstico.
+- Listado en segundo ListBox, ordenado por fecha.
+
+### Reporte de Citas por Paciente:
+- Filtro por paciente (ordenado por apellido) y fechas.
+- Muestra ID, nombre, fecha, día, médico, especialidad, estatus y diagnóstico.
+- Citas mostradas en segundo ListBox, ordenadas cronológicamente.
+
+---

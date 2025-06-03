@@ -1,0 +1,55 @@
+﻿  Pia_2049360_1954794.cpp
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(429,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(1447,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(1791,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2095,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2263,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2327,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2349,13): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2350,13): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2351,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2352,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2396,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2410,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2440,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2499,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2514,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2525,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2574,18): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2673,19): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2789,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(2979,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3044,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3068,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3098,13): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3113,36): warning C4477: 'sscanf_s' : la cadena de formato '%4d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'WORD *'
+      C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3113,36):
+      considere el uso de ' %hd' en la cadena de formato
+  
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3113,36): warning C4477: 'sscanf_s' : la cadena de formato '%2d' requiere un argumento de tipo 'int *', pero el argumento variádico 2 tiene el tipo 'WORD *'
+      C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3113,36):
+      considere el uso de ' %hd' en la cadena de formato
+  
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3113,36): warning C4477: 'sscanf_s' : la cadena de formato '%2d' requiere un argumento de tipo 'int *', pero el argumento variádico 3 tiene el tipo 'WORD *'
+      C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3113,36):
+      considere el uso de ' %hd' en la cadena de formato
+  
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3144,18): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3178,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3235,12): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3265,13): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3281,36): warning C4477: 'sscanf_s' : la cadena de formato '%4d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'WORD *'
+      C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3281,36):
+      considere el uso de ' %hd' en la cadena de formato
+  
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3281,36): warning C4477: 'sscanf_s' : la cadena de formato '%2d' requiere un argumento de tipo 'int *', pero el argumento variádico 2 tiene el tipo 'WORD *'
+      C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3281,36):
+      considere el uso de ' %hd' en la cadena de formato
+  
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3281,36): warning C4477: 'sscanf_s' : la cadena de formato '%2d' requiere un argumento de tipo 'int *', pero el argumento variádico 3 tiene el tipo 'WORD *'
+      C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3281,36):
+      considere el uso de ' %hd' en la cadena de formato
+  
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3296,20): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\Pia_Estructura\Pia_2049360_1954794.cpp(3344,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+  Pia_Estructura.vcxproj -> C:\Users\eduar\Downloads\Pia_Estructura\Pia_Estructura\x64\Debug\Pia_Estructura.exe
